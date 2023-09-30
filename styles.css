@@ -1,0 +1,55 @@
+body {
+    background: #fcbf49;
+}
+
+.title {
+    display: flex;
+    justify-content: center;
+    margin-top: 25px;
+}
+
+h1 {
+    font-family: 'Skranji';
+    color: #3d405b;
+    font-size: 48px;
+}
+
+.score-board {
+    display: flex;
+    justify-content: center;
+}
+
+h2 {
+    width: 250px;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    color: #e07a5f;
+    font-size: 36px;
+}
+
+#player-choice, #computer-choice {
+    color: #3d405b;
+}
+
+img {
+    width: 200px;
+}
+
+img:hover, img:hover, img:hover {
+    opacity: 50%;
+    cursor: pointer;
+}
+
+.game {
+    display: flex;
+    justify-content: space-evenly;
+    font-family: 'Skranji';
+    font-size: 48px;
+    
+}
+
+.text {
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+}
